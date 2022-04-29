@@ -24,7 +24,7 @@
 		]
 	},
 	"beacon": {
-		"message": "LoRa iGATE & Digi, Info: github.com/lora-aprs/LoRa_APRS_iGate",
+		"message": "aprs434.github.io 433.775MHz",
 		"position": {
 			"latitude": 0.000000,
 			"longitude": 0.000000
